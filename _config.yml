@@ -13,39 +13,38 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: ATP Coding # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Random discoveries and thoughts from a software dev. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+  Blog of a software developer, mostly C#, AI, API, and other fun discoveries for my reference and others.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://andypowell00.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: andypowell00 # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Andy Powell
+  email: atpcoding@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    #- https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/andy-powell-20078273/
 
 google_site_verification: # fill in to your verification string
 
@@ -76,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/C4E03AQFVTWrW-w7Q8A/profile-displayphoto-shrink_400_400/0/1608135962189?e=1698278400&v=beta&t=a46J84I5cGcGBJ70pxnmAPLe-P5EAF7RqZFfpmQ2bZk
 
 # boolean type, the global switch for TOC in posts.
 toc: true
