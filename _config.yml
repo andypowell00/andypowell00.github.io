@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: ATP Coding # the main title
 
-tagline: Random discoveries and thoughts from a software dev. # it will display as the sub-title
+tagline: Random discoveries and thoughts from a dev. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Blog of a software developer, mostly C#, AI, API, and other fun discoveries for my reference and others.
