@@ -20,10 +20,10 @@ timezone: America/New_York
 
 title: ATP Coding # the main title
 
-tagline: Random discoveries and thoughts from a dev. # it will display as the sub-title
+tagline: Hack the planet # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Blog of a software developer, mostly C#, AI, API, and other fun discoveries for my reference and others.
+  Blog of a programmer, mostly C#, AI, APIs, and other fun discoveries for my reference and others.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://andypowell00.github.io"
 
@@ -75,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/C4E03AQFVTWrW-w7Q8A/profile-displayphoto-shrink_400_400/0/1608135962189?e=1698278400&v=beta&t=a46J84I5cGcGBJ70pxnmAPLe-P5EAF7RqZFfpmQ2bZk
+avatar: https://imgur.com/BXCY45w
 
 # boolean type, the global switch for TOC in posts.
 toc: true
