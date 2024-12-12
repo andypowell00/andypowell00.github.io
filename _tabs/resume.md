@@ -31,6 +31,6 @@ Experienced programmer with a proven track record working in the marketing and a
 
 ## Technical Skills
 - **Languages:** C#, PHP, Java (Android), HTML/CSS, JavaScript, TypeScript
-- **Tools & Platforms:** SQL, Git, TFS, Visual Studio, Azure, AWS, WordPress
-- **Databases:** SSMS, Postman
-- **Project Management:** Jira, Episerver
+- **Tools & Platforms:** Git, TFS, Visual Studio & Code, SSMS, Postman, Azure, AWS, WordPress, Episerver
+- **Databases:** MS Sql Server, MySQL, MongoDB (Cosmos)
+- **Project Management:** Jira, Trello
